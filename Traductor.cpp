@@ -282,3 +282,4 @@ void delete_line(){
 	leer(); 
 
 }	
+// se agrega nuevas condiciones al programa :)
